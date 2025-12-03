@@ -24,7 +24,7 @@
 2. **Q1 and Q2 performed poorly**, with negative or near-zero satisfaction scores.  
 3. **Q3 shows strong performance**, reaching 6.7 — above the industry target.  
 4. **Q4 dropped again**, indicating inconsistency in patient experience delivery.  
-5. The **overall average score (1.68) is far below the target of 4.5**, signaling systemic issues.
+5. The **overall average score (1.68) is far below target of 4.5**, signaling systemic issues.
 
 ---
 
